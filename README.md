@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Dung Tran From Viet Nam
-- 👀 I’m work in React Native
+- 👀 I’m working on React, Nextjs, React Native
